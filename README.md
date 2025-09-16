@@ -97,9 +97,10 @@ We also welcome contributions! Please open an issue or submit PRs for:
 ## 📜 Citation
 If you use this work, please cite:
 ```bibtex
-@inproceedings{anonymous2025madvae,
+@inproceedings{shiandjin2025madvae,
   title={MADVAE: Pre-Trained Multi-Agent Decision Transformer by Adopting Variational Autoencoder and Dual-Expert Policy Synchronization},
-  author={Anonymous et al.},
+  author={B. Shi and W. Jin et al.},
   booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing 2026 (ICASSP-26) (under review)},
   year={2025},
 }
+

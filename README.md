@@ -102,5 +102,7 @@ If you use this work, please cite:
   author={B. Shi and W. Jin et al.},
   booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing 2026 (ICASSP-26) (under review)},
   year={2025},
+note={Equal Contribution: B. Shi and W. Jin; Corresponding authors: W. Jin and B. Zhao.}},
 }
+
 
